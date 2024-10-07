@@ -1,0 +1,21 @@
+.header {
+    width: auto;
+    height: 50px;
+    border-bottom: 1px solid #E0D0DE;
+    margin: 0 auto;
+}
+
+.header__inner {
+    background-color: #fff;
+    padding: 5px 15px;
+    text-align: left;
+}
+
+.header__logo {
+    color: #FFD700;
+    text-decoration: none;
+    font-family: Bookman Old Style;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 26px;
+}
